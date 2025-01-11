@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 
-## 课程笔记 <a href="#notes" id="notes"></a>
+## 佛脚 <a href="#notes" id="notes"></a>
 
 * [微积分 I/II](notes/calculus.md)
 * [CPL](notes/cpl.md)
@@ -15,6 +15,14 @@
 * [计算机组织结构](notes/coa.md)
 * [数据结构与算法](notes/data-structure-and-algorithm.md)
 * [密码学原理](notes/crypto.md)
+
+## 玩乐 <a href="#entertainment" id="entertainment"></a>
+
+* [吃喝](entertainment/food.md)
+
+## 使用说明 <a href="#instructions" id="instructions"></a>
+
+* [获取下载密码](instructions/get_password.md)
 
 ## Basics
 
