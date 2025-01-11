@@ -34,6 +34,8 @@ icon: user-tie
 
 ### 资料下载
 
-地址：[https://cos.tg/xuqiu](https://cos.tg/xuqiu)。包含课程PPT，学长笔记，大作业等内容。
+[下载地址](https://cos.tg/xuqiu)
+
+包含课件，学长笔记，往年大作业等内容。
 
 访问本页需要密码，可在此[获取密钥](../../instructions/get_password.md)。
