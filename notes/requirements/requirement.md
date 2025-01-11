@@ -1,6 +1,6 @@
 # 需求部分笔记
 
-### 2024夏 需求期末范围 <a href="#id-2024-xia-xu-qiu-qi-mo-fan-wei" id="id-2024-xia-xu-qiu-qi-mo-fan-wei"></a>
+### 目标模型2024夏 需求期末范围 <a href="#id-2024-xia-xu-qiu-qi-mo-fan-wei" id="id-2024-xia-xu-qiu-qi-mo-fan-wei"></a>
 
 * 需求获取 30%
   * 需求获取上半段 20%
