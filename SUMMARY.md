@@ -11,6 +11,7 @@
 * [离散数学](notes/discrete-mathematics.md)
 * [需求与商业模式创新](notes/requirements/README.md)
   * [商业模式部分笔记](notes/requirements/business-model.md)
+  * [需求部分笔记](notes/requirements/requirement.md)
 * [线性代数](notes/linear-algebra.md)
 * [互联网计算](notes/internet-computing.md)
 * [计算机组织结构](notes/coa.md)
