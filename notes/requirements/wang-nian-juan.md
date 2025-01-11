@@ -1,7 +1,5 @@
 # 往年卷
 
-## 需求 期末 2020-2024 <a href="#xu-qiu-qi-mo-20202024" id="xu-qiu-qi-mo-20202024"></a>
-
 > 分数：第1题画布20%，其余每题10%
 
 ### 2020.06 - 新浪微博 <a href="#id-202006-xin-lang-wei-bo" id="id-202006-xin-lang-wei-bo"></a>
