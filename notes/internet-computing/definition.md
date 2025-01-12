@@ -4,7 +4,9 @@
 
 如需查看计网的所有名词解释，可参考 Spricoder 学长的[文档](https://spricoder.github.io/2020/07/05/2020-Internet-computing/2020-Internet-computing-exam2-%E5%90%8D%E8%AF%8D%E5%88%86%E6%9E%90/)。
 
-为便于大家复习，本页面同时提供 PDF 打印版，可在[下载区](https://cos.tg/jiwang)的`Notes/22-名词解释精简版.xlsx`目录下找到。
+{% hint style="info" %}
+为便于大家复习，本页面同时提供 PDF 打印版，可在[下载区](https://cos.tg/jiwang)的`Notes/22-名词解释精简版.pdf`下找到。
+{% endhint %}
 
 ### 往年出现过的名词解释
 
