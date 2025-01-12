@@ -8,8 +8,9 @@
 
 ### 往年出现过的名词解释
 
-| ADSL    | Asymmetric Digital Subscriber Line                     | 非对称数字用户线路    | <p>用数字技术对模拟电话用户线进行改造，增加宽带功能<br>ADSL下行带宽远远大于上行带宽，因此得名“非对称”</p>     | 10                   |
+| 英文简称    | 英文全称                                                   | 中文全称         | 定义/功能                                                             | 年份                   |
 | ------- | ------------------------------------------------------ | ------------ | ----------------------------------------------------------------- | -------------------- |
+| ADSL    | Asymmetric Digital Subscriber Line                     | 非对称数字用户线路    | 用数字技术对模拟电话用户线进行改造，增加宽带功能ADSL下行带宽远远大于上行带宽，因此得名“非对称”                | 10                   |
 | ARP     | Address Resolution Protocol                            | 地址解析协议       | 把IP地址解析为MAC地址                                                     | 18 19                |
 | CHAP    | Challenge Handshake Authentication Protocol            | 挑战握手认证协议     | 用于广域网PPP中的验证协议，通过三次握手和哈希函数验证链路对端身份                                | 17 18 20             |
 | CIDR    | Classless Inter-Domain Routing                         | 无类域间路由选择     | 通过以/和数字表示的子网掩码划分子网                                                | 17 19 20             |
@@ -35,4 +36,18 @@
 
 ### 其他较为重要的名词解释
 
-<table><thead><tr><th width="78">英文简称</th><th width="294">英文全称</th><th width="164">中文全称</th><th width="366">定义/功能</th></tr></thead><tbody><tr><td>ACL</td><td>Access Control Lists</td><td>访问控制列表</td><td>控制规则组，用于允许/组织路由器/交换机端口的数据包进出</td></tr><tr><td>BDR</td><td>Back-up designated router</td><td>备用指定路由器</td><td>DR的备份</td></tr><tr><td>CDM(A)</td><td>Code Division Multiplexing/Muliple Access</td><td>码分复用/多址</td><td>通过不同的编码区分原始信号，复用信道</td></tr><tr><td>DR</td><td>Designated Router</td><td>指定路由器</td><td>在OSPF协议中被选举为代表所有路由的路由</td></tr><tr><td>FDM</td><td>Frequency Division Multiplexing</td><td>频分复用</td><td>通过不同频带同时传输不同信号</td></tr><tr><td>MAC</td><td>Media Access Control</td><td>介质访问控制</td><td>MAC地址是硬件设备的物理地址，定义在物理线路上如何传输帧</td></tr><tr><td>RIP</td><td>Routing Information Protocol</td><td>路由信息协议</td><td>基于距离向量的动态路由协议，以跳数作为衡量，只适用于小型网络</td></tr><tr><td>STP</td><td>Shielded Twisted Pair</td><td>屏蔽双绞线</td><td>广泛用于数据传输的铜质双绞线</td></tr><tr><td>TCP</td><td>Transmission Control Protocol</td><td>传输控制协议</td><td>面向连接的、可靠的、基于字节流的传输层通信协议</td></tr><tr><td>UTP</td><td>Unshielded Twisted Pair</td><td>无屏蔽双绞线</td><td>无屏蔽材料的双绞线，价格低廉，安装方便</td></tr><tr><td>VLAN</td><td>Virtual Local Area Network</td><td>虚拟局域网</td><td>通过逻辑分组技术将物理局域网中的设备划分为多个虚拟网络的技术，可分割广播域，提高网络灵活性和安全性</td></tr><tr><td>VLSM</td><td>Variable Length Subnet Mask</td><td>可变长子网掩码</td><td>子网掩码长度可变，可用于进一步划分子网</td></tr><tr><td>WDM(A)</td><td>Wavelength Division Multiplexing</td><td>波分复用</td><td>光的频分复用，通过不同波长的光同时传输不同信号</td></tr></tbody></table>
+| 英文简称   | 英文全称                                      | 中文全称    | 定义/功能                                             |
+| ------ | ----------------------------------------- | ------- | ------------------------------------------------- |
+| ACL    | Access Control Lists                      | 访问控制列表  | 控制规则组，用于允许/组织路由器/交换机端口的数据包进出                      |
+| BDR    | Back-up designated router                 | 备用指定路由器 | DR的备份                                             |
+| CDM(A) | Code Division Multiplexing/Muliple Access | 码分复用/多址 | 通过不同的编码区分原始信号，复用信道                                |
+| DR     | Designated Router                         | 指定路由器   | 在OSPF协议中被选举为代表所有路由的路由                             |
+| FDM    | Frequency Division Multiplexing           | 频分复用    | 通过不同频带同时传输不同信号                                    |
+| MAC    | Media Access Control                      | 介质访问控制  | MAC地址是硬件设备的物理地址，定义在物理线路上如何传输帧                     |
+| RIP    | Routing Information Protocol              | 路由信息协议  | 基于距离向量的动态路由协议，以跳数作为衡量，只适用于小型网络                    |
+| STP    | Shielded Twisted Pair                     | 屏蔽双绞线   | 广泛用于数据传输的铜质双绞线                                    |
+| TCP    | Transmission Control Protocol             | 传输控制协议  | 面向连接的、可靠的、基于字节流的传输层通信协议                           |
+| UTP    | Unshielded Twisted Pair                   | 无屏蔽双绞线  | 无屏蔽材料的双绞线，价格低廉，安装方便                               |
+| VLAN   | Virtual Local Area Network                | 虚拟局域网   | 通过逻辑分组技术将物理局域网中的设备划分为多个虚拟网络的技术，可分割广播域，提高网络灵活性和安全性 |
+| VLSM   | Variable Length Subnet Mask               | 可变长子网掩码 | 子网掩码长度可变，可用于进一步划分子网                               |
+| WDM(A) | Wavelength Division Multiplexing          | 波分复用    | 光的频分复用，通过不同波长的光同时传输不同信号                           |
