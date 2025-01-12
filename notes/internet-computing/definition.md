@@ -28,7 +28,7 @@
 | PDU     | Protocol Data Unit                                     | 协议数据单元       | 对等层次之间传递的数据单位。 物理层 bit，数据链路层frame，网络层 packet，传输层 segment，更高层 data | 24                   |
 | PPP     | Point-to-Point Protocol                                | 点对点协议        | 数据链路层协议，用于在广域网之中的两点传输数据，全双工，标准化协议，兼容各类设备                          | 15 16 17 18 19 20    |
 | RARP    | Reverse Address Resolution Protocol                    | 反向地址解析协议     | MAC地址到IP的映射，在动态IP中使用，设备向RARP服务器请求IP地址                             | 11 13 15 17 20       |
-| SMTP    | Simple Mail Transfer Protocol                          | 简单邮件传输协议     | 用于发送电子邮件，属于TCP/IP协议族                                              | 18 19 2              |
+| SMTP    | Simple Mail Transfer Protocol                          | 简单邮件传输协议     | 用于发送电子邮件，属于TCP/IP协议族                                              | 18 19 20             |
 | STP     | Spanning Tree Protocol                                 | 生成树协议        | 用于在网络中建立拓扑                                                        | 11 13                |
 | TDM     | Time Division Multiplexing                             | 时分复用         | 采用同一物理连接的不同时段来传输不同的信号，达到多路传输的目的                                   | 11 13 15 16 17 18    |
 | UDP     | User Datagram Protocol                                 | 用户数据包协议      | 传输层协议，特点为简单不可靠，无连接，无控制                                            | 15 24                |
