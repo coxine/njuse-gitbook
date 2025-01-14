@@ -1,6 +1,6 @@
 # 小测及答案
 
-### Quiz 01 OSI基础知识
+## Quiz 01 OSI基础知识
 
 1（单选题）Which of the following is the only device that works on all layers of the OSI model?
 
@@ -30,11 +30,11 @@
 * Allowing wireless devices to connect to a wireless network.
 * Connecting networks and wisely choosing the best alternatives between networks.
 
-#### Quiz 01 Answers
+### Quiz 01 Answers
 
 * 1-4 ACAC
 
-### Quiz 02 网络层
+## Quiz 02 网络层
 
 1（多选题）Which of the following is your private IP address?
 
@@ -74,7 +74,7 @@
 * `255.255.255.240`
 * `255.255.255.248`
 
-#### Quiz 02 Answers
+### Quiz 02 Answers
 
 * 1 CE
 * 2 C
@@ -82,7 +82,7 @@
 * 4-5 BB
   * 5 中的5个子网是多余数据
 
-### Quiz 03 传输层
+## Quiz 03 传输层
 
 1（单选题）Which of the following layers of the OSI model is not involved in defining how the applications within the end stations will communicate with each other as well as with users?
 
@@ -157,7 +157,7 @@
 * `192,168.19.31 255.255.255.248`
 * `192.168.19.34 255.255.255.240`
 
-#### Quiz 03 Answers
+### Quiz 03 Answers
 
 * 1 A
 * 2 AD
@@ -165,7 +165,7 @@
 * 7 BC
 * 8-10 CCC
 
-### Quiz 04 传输层 & 应用层
+## Quiz 04 传输层 & 应用层
 
 1（单选题）一台主机希望解析域名 \<www.nankai.edu.cn>，如果这台主机配置的域名服务器为`202.120.66.68`，Internet根域名服务器为 `10.2.8.6`，而存储 \<www.nankai.edu.cn> 与其IP地址对应关系的域名服务器为 `202.113.16.10`，那么这台主机解析该域名通常先查询（）。
 
@@ -224,7 +224,7 @@
 * The subnet's broadcast address is `10.16.3.255 255.255.254.0`
 * The network is not subnetted
 
-#### Quiz 04 Answers
+### Quiz 04 Answers
 
 * 1-7 BACDD CC
   * 4 目的端口取决于网站，物理地址是硬件地址，默认网关地址是配置好的，只有源端口是动态选择的
@@ -232,7 +232,7 @@
   * A 注意陷阱
   * E 未经过子网划分：子网掩码是默认值 (`/8`、`/16`、`/24`)
 
-### Quiz 05 综合题
+## Quiz 05 综合题
 
 In the topology of a corporation (illustrated in figure). If you want to distribute `192.168.20.0/24` to these hosts and routers, and divide the network into subnets, please give the result (zero subnet permitted).（2020春.期末）
 
@@ -244,7 +244,7 @@ In the topology of a corporation (illustrated in figure). If you want to distrib
 * Net D
 * Other Nets
 
-#### Quiz 05 Answers
+### Quiz 05 Answers
 
 * `192.168.20.0/25`
 * `192.168.20.192/27`
@@ -255,7 +255,7 @@ In the topology of a corporation (illustrated in figure). If you want to distrib
 * `cd: 192.168.20.248/30`
   * 路由器间的子网相当于2个接口，所以是`/30`子网
 
-### Quiz 06 OSPF & VLAN
+## Quiz 06 OSPF & VLAN
 
 1（多选题）Which of the two statements about the OSPF router ID is correct?
 
@@ -296,7 +296,7 @@ In the topology of a corporation (illustrated in figure). If you want to distrib
 * A switch maintains a separate bridging table for each VLAN
 * VLANs cannot span multiple switches.
 
-#### Quiz 06 Answers
+### Quiz 06 Answers
 
 * 1 AD
 * 2 BDE
@@ -312,7 +312,7 @@ In the topology of a corporation (illustrated in figure). If you want to distrib
 * E.一个交换机在每个VLAN中保持存放一个分离的桥接表。命令 show mac-address-table vlan可以看见
 * F. VLANs不能跨越多个交换机。错 trunk链路嘛
 
-### Quiz 07 局域网交换
+## Quiz 07 局域网交换
 
 <figure><img src="../../.gitbook/assets/network-quiz07.png" alt=""><figcaption><p>7</p></figcaption></figure>
 
@@ -320,13 +320,13 @@ In the topology of a corporation (illustrated in figure). If you want to distrib
 * 根端口为?（如SW1.P1; SW1.P2......）
 * 指定端口为?
 
-#### Quiz 07 Answers
+### Quiz 07 Answers
 
 * sw1
 * sw2.p1 sw3.p2
 * sw1.p1 sw1.p2 sw2.p2
 
-### Quiz 08 VLAN
+## Quiz 08 VLAN
 
 1.（填空题）Please give the order of links the packets passed when ping `192.168.110.2` from `192.168.100.3`. These links are labeled as 'A', 'B', and so on. (2022春.期末 考察)
 
@@ -343,7 +343,7 @@ In the topology of a corporation (illustrated in figure). If you want to distrib
 * Router1 needs more LAN interfaces to accommodate the VLANs that are shown in the exhibit.
 * The FastEthernet 0/0 interface on Router1 and Switch2 trunk ports must be configured using the same encapsulation type.
 
-#### Quiz 08 Answers
+### Quiz 08 Answers
 
 * 1 FTABTD
 * 2 DF

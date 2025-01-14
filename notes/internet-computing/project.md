@@ -1,14 +1,14 @@
 # 大作业要求
 
-### 小程序
+## 小程序
 
-#### 总体要求
+### 总体要求
 
 1. 3-4 个页面
 2. 可以考虑使用底部导航拦
 3. 后端可以自己写（Java、Python、Node 等不限），或者使用微信小程序的云开发功能。
 
-#### 参考主题
+### 参考主题
 
 1. 天气预报
 2. 课程表
@@ -17,9 +17,9 @@
 5. 减脂助手
 6. 若选择其他主题须与教师说明。
 
-### Socket
+## Socket
 
-#### 基于 Java Socket API 搭建简单的 HTTP 客户端和服务器端程序
+### 基于 Java Socket API 搭建简单的 HTTP 客户端和服务器端程序
 
 1. 不允许基于 netty 等框架，完全基于 Java Socket API 进行编写
 2. 不分区使用的 IO 模型，BIO、NIO、AIO 都可以
@@ -38,7 +38,7 @@
 2. [http://www.runoob.com/java/java-networking.html](http://www.runoob.com/java/java-networking.html)
 3. [https://tools.ietf.org/html/rfc2616](https://tools.ietf.org/html/rfc2616)
 
-#### 基于 UDP 或 Raw Socket 实现一种可靠的传输层协议（STP）
+### 基于 UDP 或 Raw Socket 实现一种可靠的传输层协议（STP）
 
 1. 使用原生 Java Socket API 编写
 2. 功能要求如下：
@@ -49,14 +49,14 @@
    5. 需模拟数据包丢失、乱序、超时、出错的情况（如根据概率随机“丢失”数据包）
    6. 需模拟确认包丢失、乱序、超时的情况
 
-#### 难度相当的其他socket应用
+### 难度相当的其他socket应用
 
 需要和老师确认。
 
-### Web应用开发
+## Web应用开发
 
 需要有前端和后端，至少5个功能页面。
 
-### 其他网络开发相关主题
+## 其他网络开发相关主题
 
 需要和教师确认。

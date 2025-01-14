@@ -1,6 +1,6 @@
 # 04-网络层
 
-### 概览
+## 概览
 
 * 在网络间传输数据包
 * 为数据包选择路由
@@ -9,11 +9,11 @@
 * 为网络提供拥塞控制
 * 和其他网络层交互
 
-### 报文
+## 报文
 
 <figure><img src="../../.gitbook/assets/network-04-ip-packet-format.png" alt=""><figcaption><p>IP 报文格式</p></figcaption></figure>
 
-```
+```plaintext
  0                   1                   2                   3
  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
@@ -63,7 +63,7 @@
 * 源地址 32位
 * 目的地址 32位
 
-### IP地址
+## IP地址
 
 * 逻辑地址
 * 32位，网络地址+主机地址
@@ -79,7 +79,7 @@
   * IPv6：128位地址
 * 私有地址：`10.0.0.0/8` `172.16.0.0/12` `192.168.0.0/16`
 
-#### 分类
+### 分类
 
 | 类别 | 网络地址 | 主机地址  | 主机数        | 范围        | 高位     |
 | -- | ---- | ----- | ---------- | --------- | ------ |
@@ -89,7 +89,7 @@
 | D  | 多播   |       |            | 224 - 239 | `1110` |
 | E  | 保留   |       |            | 240 - 255 | `1111` |
 
-#### 子网
+### 子网
 
 * 通过子网掩码划分子网
 * `IP & 子网掩码 = 网络地址 + 子网地址`
@@ -118,7 +118,7 @@
 * 假设子网地址$$n$$位，主机地址$$m$$位，则有$$2^n-2$$个可用的子网，每个子网有$$2^m-2$$个可用的主机地址
 * 可见当$$m=n$$时，IP地址利用率最高
 
-**划分子网**
+#### 划分子网
 
 * 若需要m个子网，每个子网n个主机，则
   * 子网地址长度：$$\lceil \log_2(m+2) \rceil$$
@@ -126,7 +126,7 @@
   * 子网掩码中1的个数为网络地址长度+子网地址长度
   * 子网地址=IP地址&子网掩码
 
-#### IP地址分配
+### IP地址分配
 
 * 静态分配
   * 由管理员手动分配
@@ -136,7 +136,7 @@
   * BOOTP：BOOTstrap Protocol
   * RARP: Reverse Address Resolution Protocol
 
-### 路由器
+## 路由器
 
 * 互联网段/网络：把数据包从一个网络传到另一个网络
   * 每个网络有一个唯一的网络号码
@@ -148,21 +148,21 @@
   3. 查找路由表，找到下一跳
   4. 重新封装帧，发送到下一跳
 
-### ARP Address Resolution Protocol 地址解析协议
+## ARP Address Resolution Protocol 地址解析协议
 
 <figure><img src="../../.gitbook/assets/network-04-arp-procedure.png" alt=""><figcaption><p>ARP 流程</p></figcaption></figure>
 
 * 发送方需要知道目的主机的IP和MAC地址以通信
 * ARP协议用于解析IP地址找到MAC地址
 
-#### 同网络间ARP
+### 同网络间ARP
 
 1. 广播ARP请求：包含发送方IP和MAC地址，目的IP地址
 2. 目的主机收到ARP请求，其他主机仅记录发送方IP和MAC地址，不响应
 3. 目的主机回应ARP请求
 4. 发送方收到ARP响应并缓存
 
-#### 跨网络间ARP
+### 跨网络间ARP
 
 * 默认网关
   * 用于不同网络间通信
@@ -170,18 +170,18 @@
   * 发送方发送ARP请求到默认网关
 * Proxy ARP：路由器代替目的主机响应ARP请求，返回自己的MAC地址
 
-### 网络层服务
+## 网络层服务
 
 * Connection-oriented：先建立连接再传输数据（传输层）
 * Connectionless：直接传输数据，不需要建立连接，如IP
 * Circuit-switched：建立固定信道/电路后**顺序**传输数据（物理层）
 * Packet-switched：将数据分割成数据包传输，不需要固定信道，如IP
 
-### 路由&路由协议
+## 路由&路由协议
 
 * 见第7-8章笔记
 
-### VLSM Variable Length Subnet Mask 可变长子网掩码
+## VLSM Variable Length Subnet Mask 可变长子网掩码
 
 {% hint style="info" %}
 VLSM 示例
@@ -203,7 +203,7 @@ VLSM 示例
   * 更好的路由聚合：构建超网
 * 缺点：广播地址/网络号浪费
 
-#### 支持VLSM的路由协议
+### 支持VLSM的路由协议
 
 * RIP v2
 * OSPF
@@ -211,7 +211,7 @@ VLSM 示例
 * Integrated IS-IS
 * 静态路由
 
-#### Route Aggregation 路由聚合/超网
+### Route Aggregation 路由聚合/超网
 
 * 路由表中通过改变掩码长度合并同类项
 * 不做连续性检验，只看最高位是否相同来合并&#x20;
@@ -224,7 +224,7 @@ VLSM 示例
 可以合并为`200.199.48.0/22`
 {% endhint %}
 
-### ICMP Internet Control Message Protocol
+## ICMP Internet Control Message Protocol
 
 * 用于网络设备之间传递错误信息
 * IP层（网络层）的协议
@@ -241,9 +241,9 @@ VLSM 示例
     * 路由器询问/通告
     * 地址掩码请求/应答
 
-#### 报文格式
+### 报文格式
 
-```
+```plaintext
  +0------7-------15---------------31
  |  Type | Code  |    Checksum    |
  +--------------------------------+
@@ -260,14 +260,14 @@ VLSM 示例
 
 * IP报头+ICMP报文的前8字节+收到的IP数据报的报头+收到的ICMP报文的前8字节
 
-#### 不发送ICMP差错报文的情况
+### 不发送ICMP差错报文的情况
 
 * ICMP差错报告报文本身
 * 第一个分片后的分片
 * 多播地址
 * 特殊地址：`127.0.0.0` `0.0.0.0`
 
-#### PING Packet InterNet Groper
+### PING Packet InterNet Groper
 
 * 通过ICMP的`Echo Request`和`Echo Reply`报文测试网络连接
 * 测试两个主机间的连通性

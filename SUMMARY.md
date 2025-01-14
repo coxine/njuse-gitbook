@@ -44,14 +44,3 @@
 ## 指南 <a href="#instructions" id="instructions"></a>
 
 * [获取下载密码](instructions/get_password.md)
-
-## Basics
-
-* [Quickstart](basics/quickstart/README.md)
-  * [Publish your docs](basics/quickstart/publish-your-docs.md)
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)

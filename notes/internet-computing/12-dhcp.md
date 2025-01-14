@@ -5,9 +5,9 @@
 * 局域网协议
 * 基于UDP
 
-### 工作流程
+## 工作流程
 
-<figure><img src="../../.gitbook/assets/12-dhcp.png" alt=""><figcaption><p>DHCP 工作流程</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/network-12-dhcp.png" alt=""><figcaption><p>DHCP 工作流程</p></figcaption></figure>
 
 {% hint style="info" %}
 DHCP 中的 单播/广播
@@ -23,9 +23,9 @@ DHCP 中的 单播/广播
 5. 租期续约：Client 在租期中，向提供 IP 地址的 Server `DHCP Request` 包，收到 Server 的 `DHCP Ack` 包后更新配置
 6. 租期释放：Client 在租期中，向提供 IP 地址的 Server发送 `DHCP Release` 包，Server 收到后释放 IP 地址
 
-### 报文结构
+## 报文结构
 
-```
+```plaintext
  0         7            15        23       31
  +------------------------------------------+
  |  Op (1) | Htype (1)  | Hlen (1)| Hops (1)|
@@ -52,15 +52,15 @@ DHCP 中的 单播/广播
  +------------------------------------------+
 ```
 
-### DHCP 欺骗
+## DHCP 欺骗
 
 * 欺骗：伪造 DHCP Server，抢先回答，向 Client 发送虚假 IP 地址，进而导致数据窃听
 * 实际应用的网络中采用 DHCP 中继，使得本网络的非授权 DHCP Server 快于其他网络的授权 DHCP Server，导致 DHCP 欺骗更容易完成
 * 防范措施：DHCP Snooping，使用 DHCP Snooping 绑定表过滤不可信的信息
 
-#### 配置
+### 配置
 
-```
+```bash
  switch(config)# ip dhcp snooping
  switch(config)# ip dhcp snooping vlan 1
  switch(config)# interface GigabitEthernet 0/1

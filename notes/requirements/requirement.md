@@ -1,6 +1,6 @@
 # 需求部分笔记
 
-### 目标模型2024夏 需求期末范围 <a href="#id-2024-xia-xu-qiu-qi-mo-fan-wei" id="id-2024-xia-xu-qiu-qi-mo-fan-wei"></a>
+## 目标模型2024夏 需求期末范围 <a href="#id-2024-xia-xu-qiu-qi-mo-fan-wei" id="id-2024-xia-xu-qiu-qi-mo-fan-wei"></a>
 
 * 需求获取 30%
   * 需求获取上半段 20%
@@ -22,7 +22,7 @@
   * 需求变更控制过程与组织
   * 需求变更注意事项
 
-### 基础知识 <a href="#ji-chu-zhi-shi" id="ji-chu-zhi-shi"></a>
+## 基础知识 <a href="#ji-chu-zhi-shi" id="ji-chu-zhi-shi"></a>
 
 * 需求的层次性：问题->目标->用户需求->系统级需求
 * 问题域：问题发生的地方，软件开发所谓的'需求'。
@@ -31,7 +31,7 @@
 * 问题域和解系统之间的共享现象：通过映射建立的共同知识
 * 需求工程基本活动：需求获取、需求分析、需求规约、需求验证、需求管理
 
-### 目标模型 <a href="#mu-biao-mo-xing" id="mu-biao-mo-xing"></a>
+## 目标模型 <a href="#mu-biao-mo-xing" id="mu-biao-mo-xing"></a>
 
 > 2020.06：结合微博存在的问题，进行目标分析（尽可能多地使用目标分析的元素）
 >
@@ -55,9 +55,9 @@
 * 冲突 Conflict：某一个目标对于其他目标的实现有阻碍作用
 * 目标规格：实现 Achieve、终止 Cease、保持 Maintain、避免 Avoid、优化 Optimize
 
-### 涉众分析 <a href="#she-zhong-fen-xi" id="she-zhong-fen-xi"></a>
+## 涉众分析 <a href="#she-zhong-fen-xi" id="she-zhong-fen-xi"></a>
 
-#### ADM模型 涉众识别 <a href="#adm-mo-xing-she-zhong-shi-bie" id="adm-mo-xing-she-zhong-shi-bie"></a>
+### ADM模型 涉众识别 <a href="#adm-mo-xing-she-zhong-shi-bie" id="adm-mo-xing-she-zhong-shi-bie"></a>
 
 > 以前都没考，是不是因为卷子上不大好画彩色的图？🤔
 >
@@ -68,7 +68,7 @@
 * 任务依赖（task dependency）：依赖者希望被依赖者执行特定任务。任务依赖比目标依赖更加具体，因为满足目标可以执行很多任务，被依赖者有自己的选择权。而任务依赖直接为被依赖者规定了任务。（六边形）
 * 资源依赖（resource dependency）：依赖者希望被依赖者提供资源实体（抽象信息或者实物材料）为自己所用，但不关注提供资源需要被依赖者执行的行为和解决的问题。（正方形）
 
-#### Power-Interest Power-Attitude 涉众评估 <a href="#powerinterestpowerattitude-she-zhong-ping-gu" id="powerinterestpowerattitude-she-zhong-ping-gu"></a>
+### Power-Interest Power-Attitude 涉众评估 <a href="#powerinterestpowerattitude-she-zhong-ping-gu" id="powerinterestpowerattitude-she-zhong-ping-gu"></a>
 
 > 2020.06：使用power-interest和power-attitude模型，阐述如何化解微博的涉众风险
 >
@@ -76,7 +76,7 @@
 >
 > 2024.06：用power-interest和power-attitude模型，阐述小天才手表的涉众风险和化解方法，并指出目前小天才将在父母关心儿童安全和儿童社交两种需求并列的方式为何无法真正地化解风险
 
-**基于涉众特征与态度化解涉众风险策略**
+#### 基于涉众特征与态度化解涉众风险策略
 
 * 基于特征化解举例：亲子兴趣班
   * 大人与小朋友一起参与：环境设定者（客户）→参与者（用户）
@@ -85,7 +85,7 @@
   * 电子竞技产业– 与地方政府文化产业发展相结合：强反对者→强支持者
   * 成功的赛事运营与未成年人游戏时长限制：弱反对者→弱支持者
 
-**化解涉众风险**
+#### 化解涉众风险
 
 * 一方面提高环境设定者对系统的关注，转化为参与者
 * 一方面消除强反对者的反对原因，变为强支持者
@@ -93,7 +93,7 @@
 
 <figure><img src="../../.gitbook/assets/requirements-power-interest-attitude-model.png" alt=""><figcaption><p>Power-Interest 与 Power-Attitude 模型</p></figcaption></figure>
 
-#### Stakeholder-Issue 涉众共赢 <a href="#stakeholderissue-she-zhong-gong-ying" id="stakeholderissue-she-zhong-gong-ying"></a>
+### Stakeholder-Issue 涉众共赢 <a href="#stakeholderissue-she-zhong-gong-ying" id="stakeholderissue-she-zhong-gong-ying"></a>
 
 > 2021.01：有店员因为数学不好⽽离职，⽼店⻓认为计算机不能代替⼈类决策；通过实验证明数据模型更有效；⽼店⻓培养新店⻓；减少店员数量，增加店员收⼊。结合材料，⽤ stakeholder-issue 模型进⾏涉众共赢分析
 >
@@ -124,7 +124,7 @@
 
 <figure><img src="../../.gitbook/assets/requirements-stakeholder-issue-model.png" alt=""><figcaption><p>Stakeholder-Issue 模型</p></figcaption></figure>
 
-### 需求获取下半段 <a href="#xu-qiu-huo-qu-xia-ban-duan" id="xu-qiu-huo-qu-xia-ban-duan"></a>
+## 需求获取下半段 <a href="#xu-qiu-huo-qu-xia-ban-duan" id="xu-qiu-huo-qu-xia-ban-duan"></a>
 
 > 2020.06：假设你想要开发直播带货，结合**三种需求获取方法**，**简述你将如何进行需求获取**
 >
@@ -138,14 +138,14 @@
 >
 > 2024.06：小天才为了防止不良内容，在聊天里面加入了极为严格的关键词屏蔽功能。你是小天才的产品设计人员，你要向一位33-43岁左右，对儿童手表不甚了解的孩子母亲，面谈关于关键词屏蔽功能的问题。请设计面谈问题。
 
-#### 面谈、原型、观察三大获取手段的联系与区别 <a href="#mian-tan-yuan-xing-guan-cha-san-da-huo-qu-shou-duan-de-lian-xi-yu-qu-bie" id="mian-tan-yuan-xing-guan-cha-san-da-huo-qu-shou-duan-de-lian-xi-yu-qu-bie"></a>
+### 面谈、原型、观察三大获取手段的联系与区别 <a href="#mian-tan-yuan-xing-guan-cha-san-da-huo-qu-shou-duan-de-lian-xi-yu-qu-bie" id="mian-tan-yuan-xing-guan-cha-san-da-huo-qu-shou-duan-de-lian-xi-yu-qu-bie"></a>
 
 * 联系：需求工程师获取用户需求的手段
 * 面谈：与用户创造性地交流，充分发掘用户潜在想法
 * 原型：帮助消除用户或需求工程师想法中的**不确定性**
 * 观察：需求工程师亲自（涉身）观察并发掘情景性需求，无法确保用户将所有的信息都告知
 
-#### 面谈问题的设计 <a href="#mian-tan-wen-ti-de-she-ji" id="mian-tan-wen-ti-de-she-ji"></a>
+### 面谈问题的设计 <a href="#mian-tan-wen-ti-de-she-ji" id="mian-tan-wen-ti-de-she-ji"></a>
 
 * 前期：开放式问题
   * 目前的业务主要碰到了哪些问题？
@@ -158,7 +158,7 @@
   * 需要显示的xx有哪些？
   * 有可能不xx吗？
 
-**程序性提问**
+#### 程序性提问
 
 * 总结和反馈
   * 你能不能总结一下系统的功能？
@@ -177,7 +177,7 @@
   * 你为什么会不想使用系统呢？
   * 你能不能想出将来可能导致系统失败或故障的原因？
 
-**其他**
+#### 其他
 
 * 探究式问题
   * 为什么？
@@ -189,7 +189,7 @@
   * 我的问题看起来相关吗？
   * 我还应该见什么人？
 
-### 需求分析 <a href="#xu-qiu-fen-xi" id="xu-qiu-fen-xi"></a>
+## 需求分析 <a href="#xu-qiu-fen-xi" id="xu-qiu-fen-xi"></a>
 
 {% hint style="info" %}
 动手！
@@ -197,14 +197,14 @@
 画图部分背诵内容不多，建议考前照着PPT和往年题进行绘图的训练。
 {% endhint %}
 
-#### 需求分析的根本任务与活动 <a href="#xu-qiu-fen-xi-de-gen-ben-ren-wu-yu-huo-dong" id="xu-qiu-fen-xi-de-gen-ben-ren-wu-yu-huo-dong"></a>
+### 需求分析的根本任务与活动 <a href="#xu-qiu-fen-xi-de-gen-ben-ren-wu-yu-huo-dong" id="xu-qiu-fen-xi-de-gen-ben-ren-wu-yu-huo-dong"></a>
 
 > 2024.01：需求分析四个活动，要写出细节
 
 * 需求分析的根本任务：建立分析模型、创建解决方案
 * 需求分析的活动：需求细化、需求建模、确定需求优先级、需求协商
 
-#### 概念类图 <a href="#gai-nian-lei-tu" id="gai-nian-lei-tu"></a>
+### 概念类图 <a href="#gai-nian-lei-tu" id="gai-nian-lei-tu"></a>
 
 > 2023.01：阅文平台提供了月票和会员机制，请以会员获得月票作为完整的用例，构建领域模型（简化类图）
 
@@ -217,7 +217,7 @@
 * 类与类的连接要写动作
 * 连接两边的0 1 \* 代表多重性（对应0个 1个 多个）
 
-#### 顺序图 <a href="#shun-xu-tu" id="shun-xu-tu"></a>
+### 顺序图 <a href="#shun-xu-tu" id="shun-xu-tu"></a>
 
 > 2021.01：买优惠券包、查看优惠券、优惠券包退款、优惠券包过期换积分。画出⽤例的系统顺序图
 
@@ -227,7 +227,7 @@
 * loop：循环，方括号内为循环条件
 * break：跳出，方括号内为跳出条件
 
-#### 状态图 <a href="#zhuang-tai-tu" id="zhuang-tai-tu"></a>
+### 状态图 <a href="#zhuang-tai-tu" id="zhuang-tai-tu"></a>
 
 > 2020.06：微博有一系列的封号规则，根据规则画出状态图
 >
@@ -235,9 +235,9 @@
 >
 > 2024.06：小天才针对违规内容、违规应用，将违规级别分成3级，根据违规次数决定处罚方式，有不展示、下架应用一个月，永久下架应用，永久终止和开发者的合作等等（给了一张表），请画出对违规应用行为的状态图（注：每个触发方式是一个状态，“应用正常”也是一个状态）
 
-### 需求验证与管理 <a href="#xu-qiu-yan-zheng-yu-guan-li" id="xu-qiu-yan-zheng-yu-guan-li"></a>
+## 需求验证与管理 <a href="#xu-qiu-yan-zheng-yu-guan-li" id="xu-qiu-yan-zheng-yu-guan-li"></a>
 
-#### 需求验证基本活动 <a href="#xu-qiu-yan-zheng-ji-ben-huo-dong" id="xu-qiu-yan-zheng-ji-ben-huo-dong"></a>
+### 需求验证基本活动 <a href="#xu-qiu-yan-zheng-ji-ben-huo-dong" id="xu-qiu-yan-zheng-ji-ben-huo-dong"></a>
 
 > 2023.01：免费网文较难进行影视化改编，但快手发现 IP +短视频的新模式模式。试写出需求验证除了自动化分析的其他五种手段，请对“IP+短视频”选择一种最佳的需求验证方式，并进行论述
 >
@@ -252,7 +252,7 @@
   * 系统需求 -> 用户需求 -> 业务需求
 * 自动化分析
 
-#### 需求管理任务与活动 <a href="#xu-qiu-guan-li-ren-wu-yu-huo-dong" id="xu-qiu-guan-li-ren-wu-yu-huo-dong"></a>
+### 需求管理任务与活动 <a href="#xu-qiu-guan-li-ren-wu-yu-huo-dong" id="xu-qiu-guan-li-ren-wu-yu-huo-dong"></a>
 
 > 2020.06：简述需求管理的三种方法和流程
 >
@@ -272,7 +272,7 @@
   * 控制变更
   * 控制迭代式开发中的变化
 
-#### 需求变更控制过程与组织 <a href="#xu-qiu-bian-geng-kong-zhi-guo-cheng-yu-zu-zhi" id="xu-qiu-bian-geng-kong-zhi-guo-cheng-yu-zu-zhi"></a>
+### 需求变更控制过程与组织 <a href="#xu-qiu-bian-geng-kong-zhi-guo-cheng-yu-zu-zhi" id="xu-qiu-bian-geng-kong-zhi-guo-cheng-yu-zu-zhi"></a>
 
 * 提请需求变更 -> 接受变更需求 -> 评估者 -> 变更决策 -> 执行变更 -> 验证变更
 * 变更控制委员会 CCB
@@ -285,7 +285,7 @@
   * 技术支持或帮助部门
   * 配置管理部门
 
-#### 需求变更注意事项 <a href="#xu-qiu-bian-geng-zhu-yi-shi-xiang" id="xu-qiu-bian-geng-zhu-yi-shi-xiang"></a>
+### 需求变更注意事项 <a href="#xu-qiu-bian-geng-zhu-yi-shi-xiang" id="xu-qiu-bian-geng-zhu-yi-shi-xiang"></a>
 
 > 2024.06：小天才注册了“老天才”商标，涉及科学仪器、珠宝首饰等产业。请写出需求变更的五大原则，分析“老天才”的产品可能的设计方向，并选取需求变更的一个原则，点评小天才注册“老天才”商标的行为。
 
