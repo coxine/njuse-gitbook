@@ -12,7 +12,7 @@
 * [需求与商业模式创新](notes/requirements/README.md)
   * [商业模式部分笔记](notes/requirements/business-model.md)
   * [需求部分笔记](notes/requirements/requirement.md)
-  * [往年卷](notes/requirements/wang-nian-juan.md)
+  * [往年卷](notes/requirements/final-exam.md)
 * [线性代数](notes/linear-algebra.md)
 * [互联网计算](notes/internet-computing/README.md)
   * [01-计算机网络及其参考模型](notes/internet-computing/01-osi-model.md)

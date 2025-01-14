@@ -40,9 +40,9 @@
 * 无状态：不存在上下文，事务之间无关联
 * 无连接：HTTP不关心底层的连接管理，每次事务的请求都是独立的，请求完成后不保留连接状态
 * 报文格式
-  * 请求行：`Method URL Version\r`
-  * 请求头：`Key: Value \r\n ... Key: Value \r`
-  * 空行：`\r`
+  * 请求行：`Method URL Version`
+  * 请求头：`Key: Value \r\n ... Key: Value`&#x20;
+  * 空行：
   * 请求体：`Data` 非必须
 * 请求方法
 
