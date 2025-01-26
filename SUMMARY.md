@@ -40,6 +40,7 @@
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
 
 * [吃喝](entertainment/food.md)
+* [旅游](entertainment/travel.md)
 
 ## 指南 <a href="#instructions" id="instructions"></a>
 
