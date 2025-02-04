@@ -37,7 +37,10 @@
   * [大作业要求](notes/internet-computing/project.md)
   * [实验考试要求](notes/internet-computing/lab-exam.md)
   * [小测及答案](notes/internet-computing/quiz.md)
-* [计算机组织结构](notes/coa.md)
+* [计算机组织结构](notes/coa/README.md)
+  * [机考](notes/coa/coding-exam/README.md)
+    * [2024-12](notes/coa/coding-exam/2024-12.md)
+    * [2020-12](notes/coa/coding-exam/2020-12.md)
 * [数据结构与算法](notes/data-structure-and-algorithm.md)
 * [密码学原理](notes/crypto.md)
 
