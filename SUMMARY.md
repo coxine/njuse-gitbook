@@ -2,6 +2,10 @@
 
 * [欢迎](README.md)
 
+## 南软 <a href="#njuse" id="njuse"></a>
+
+* [课程&培养方案介绍](njuse/courses.md)
+
 ## 佛脚 <a href="#notes" id="notes"></a>
 
 * [微积分 I/II](notes/calculus.md)
