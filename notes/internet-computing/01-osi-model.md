@@ -59,7 +59,7 @@
 * 传输能力的上限，理想
 * 单位：bits/second bps **注意单位转换**
 
-### 通量 Thoughput
+### 通量 Throughput
 
 * 在特定时间实际度量的带宽
 * Throughput <= Bandwidth
@@ -111,7 +111,7 @@
 * 设备位于地理上分离的网络上
 * 和第二层区别：多链路而非点对点
 
-### Layer 4: Transport Layer 运输层
+### Layer 4: Transport Layer 传输层
 
 * 关键词：**可靠性 流控制 错误纠正**
 * 将数据分段并重新组合为数据流

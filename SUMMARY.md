@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [欢迎](README.md)
 
 ## 佛脚 <a href="#notes" id="notes"></a>
 
