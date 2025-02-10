@@ -62,6 +62,7 @@
     * [2020-12](notes/coa/coding-exam/2020-12.md)
 * [数据结构与算法](notes/data-structure-and-algorithm.md)
 * [密码学原理](notes/crypto.md)
+* [计算机系统基础实验选修](notes/icspa.md)
 
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
 

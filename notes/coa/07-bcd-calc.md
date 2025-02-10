@@ -5,7 +5,7 @@
 * 进位：当值在$$[10,19]$$范围时，需要对结果进行调整（进1，加6）
 * 实现：第4位为1，第2、3位至少有1位为1
 
-<figure><img src="../../.gitbook/assets/coa-07-bcd-add" alt=""><figcaption><p>BCD加法器</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coa-07-bcd-add.png" alt=""><figcaption><p>BCD加法器</p></figcaption></figure>
 
 ## 减法
 
