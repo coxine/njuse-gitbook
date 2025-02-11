@@ -79,7 +79,7 @@
 
 ### Telnet
 
-* 可用Telenet客户端登录装有Telnet Server的远程主机，执行命令
+* 可用Telnet客户端登录装有Telnet Server的远程主机，执行命令
 * 有连接
 
 ### SMTP/POP3
