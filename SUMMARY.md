@@ -66,7 +66,10 @@
 
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
 
-* [吃喝](entertainment/food.md)
+* [吃喝](entertainment/food/README.md)
+  * [鼓楼周边](entertainment/food/gulou.md)
+  * [仙林周边](entertainment/food/xianlin.md)
+  * [南京市内](entertainment/food/nanjing.md)
 * [旅游](entertainment/travel.md)
 
 ## 指南 <a href="#instructions" id="instructions"></a>
