@@ -75,3 +75,4 @@
 ## 指南 <a href="#instructions" id="instructions"></a>
 
 * [获取下载密码](instructions/get_password.md)
+* [添砖加瓦](instructions/contribution.md)
