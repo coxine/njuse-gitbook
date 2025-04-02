@@ -75,7 +75,9 @@
 
 ***
 
-* [交通](jiao-tong.md)
+* [交通](jiao-tong/README.md)
+  * [跨校区通勤](jiao-tong/kua-xiao-qu-tong-qin.md)
+  * [往返交通枢纽](jiao-tong/wang-fan-jiao-tong-shu-niu.md)
 
 ## 指南 <a href="#instructions" id="instructions"></a>
 
