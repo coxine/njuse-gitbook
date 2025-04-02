@@ -70,7 +70,12 @@
   * [鼓楼周边](entertainment/food/gulou.md)
   * [仙林周边](entertainment/food/xianlin.md)
   * [南京市内](entertainment/food/nanjing.md)
-* [旅游](entertainment/travel.md)
+* [旅游](entertainment/travel/README.md)
+  * [春日赏花](entertainment/travel/chun-ri-shang-hua.md)
+
+***
+
+* [交通](jiao-tong.md)
 
 ## 指南 <a href="#instructions" id="instructions"></a>
 
