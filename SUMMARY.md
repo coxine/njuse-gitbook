@@ -71,13 +71,14 @@
   * [仙林周边](entertainment/food/xianlin.md)
   * [南京市内](entertainment/food/nanjing.md)
 * [旅游](entertainment/travel/README.md)
-  * [春日赏花](entertainment/travel/chun-ri-shang-hua.md)
+  * [春日赏花](entertainment/travel/flowers.md)
+  * [宁杭线](entertainment/travel/nj-hz.md)
 
 ***
 
-* [交通](jiao-tong/README.md)
-  * [跨校区通勤](jiao-tong/kua-xiao-qu-tong-qin.md)
-  * [往返交通枢纽](jiao-tong/wang-fan-jiao-tong-shu-niu.md)
+* [交通](transportation/README.md)
+  * [跨校区通勤](transportation/travel-between-campus.md)
+  * [往返交通枢纽](transportation/airport-and-railway-station.md)
 
 ## 指南 <a href="#instructions" id="instructions"></a>
 
