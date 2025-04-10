@@ -76,9 +76,7 @@
 
 ***
 
-* [交通](transportation/README.md)
-  * [跨校区通勤](transportation/travel-between-campus.md)
-  * [往返交通枢纽](transportation/airport-and-railway-station.md)
+* [交通](transportation.md)
 
 ## 指南 <a href="#instructions" id="instructions"></a>
 
