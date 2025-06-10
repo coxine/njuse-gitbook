@@ -8,6 +8,8 @@
 南京到溧水还可以乘坐地铁，全程较为酸爽，非交通爱好者慎选！！！
 {% endhint %}
 
+可参考东大交协的推文：[城市探索指南｜溧水：秦淮源头有青山 - 东奔南走](https://www.xiaohongshu.com/explore/6832e963000000000f039c34?xsec_token=ABiJfdKaFmWUo27l-GHk6A-BB8aeJwYPdPw6HgRFX9PjE)
+
 ### 市内交通
 
 * 共享电动车：覆盖包括高铁站、天生桥、无想山在内的大多数区域。
