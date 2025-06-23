@@ -56,13 +56,36 @@
   * [15-控制器](notes/coa/15-controller.md)
   * [16-总线](notes/coa/16-bus.md)
   * [17-输入输出](notes/coa/17-io.md)
-  * [20-复习](notes/coa/20-review.md)
+  * [90-复习](notes/coa/90-review.md)
   * [机考](notes/coa/coding-exam/README.md)
     * [2024-12](notes/coa/coding-exam/2024-12.md)
     * [2020-12](notes/coa/coding-exam/2020-12.md)
 * [数据结构与算法](notes/data-structure-and-algorithm.md)
 * [密码学原理](notes/crypto.md)
 * [计算机系统基础实验选修](notes/icspa.md)
+
+***
+
+* [计算机操作系统](os.md)
+* [软件工程与计算 II](se2.md)
+* [数据管理基础](data-management.md)
+* [编译原理](compilers/README.md)
+  * [00-基础知识](compilers/00-intro.md)
+  * [01-有限自动机&正则文法](compilers/01-finite-autonama-regex.md)
+  * [02-词法分析](compilers/02-lexical-analysis.md)
+  * [03-上下文无关文法](compilers/03-context-free-language.md)
+  * [04-语法分析](compilers/04-syntax-analysis.md)
+  * [05-IR](compilers/05-ir.md)
+  * [06-SSA LLVM](compilers/06-ssa-llvm.md)
+  * [07-目标代码生成](compilers/07-target-code-generation.md)
+  * [08-从 SSA 翻译指令](compilers/08-translation-from-ssa.md)
+  * [09-寄存器分配](compilers/09-register-allocation.md)
+  * [10-指令调度](compilers/10-instruction-scheduling.md)
+  * [11-数据流分析](compilers/11-dataflow-analysis.md)
+  * [12-符号执行](compilers/12-symbolic-execution.md)
+  * [13-过程间分析](compilers/13-interprocedure-analysis.md)
+  * [14-指针分析](compilers/14-pointer-analysis.md)
+  * [90-常见概念定义](compilers/90-definitions.md)
 
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
 
