@@ -68,7 +68,8 @@
 
 * [计算机操作系统](os.md)
 * [软件工程与计算 II](se2.md)
-* [数据管理基础](data-management.md)
+* [数据管理基础](data-management/README.md)
+  * [90-期末复习](data-management/90-review.md)
 * [编译原理](compilers/README.md)
   * [00-基础知识](compilers/00-intro.md)
   * [01-有限自动机&正则文法](compilers/01-finite-autonama-regex.md)
