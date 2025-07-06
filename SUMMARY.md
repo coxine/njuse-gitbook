@@ -5,6 +5,7 @@
 ## 南软 <a href="#njuse" id="njuse"></a>
 
 * [课程&培养方案介绍](njuse/courses.md)
+* [转专业攻略](njuse/switch-major.md)
 
 ## 佛脚 <a href="#notes" id="notes"></a>
 
