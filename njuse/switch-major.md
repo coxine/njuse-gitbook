@@ -64,7 +64,7 @@ icon: graduation-cap
 5. 给出字符表，和需要拼写的字符串，字符表包括 `a-z, A-Z, *` ，`*` 可替代任意字母，需要拼写的字符串中不会有 `*`，每个字符只能用一次，问是否能用给出的字符表拼出字符串。
 
 ```
-Input: words = "aabbcc", string = "acd"
+Input: words = "aabbcc*", string = "acd"
 Expected output: "Yes"
 ```
 
