@@ -1,16 +1,5 @@
 ---
 icon: house
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 欢迎
@@ -21,6 +10,16 @@ layout:
 本网站为**免费公益**站点。一切需要付费获取下载密码的渠道均为网络诈骗！
 
 若您付费从别处获知本网站，为了保护您的权益，请与本站工作人员联系，联系方式：jh\_zhang#smail.nju.edu.cn (把#换成@)。
+{% endhint %}
+
+{% hint style="warning" %}
+请批判性地使用本站：
+
+本站所有笔记均基于南软的课程/期末试卷，部分内容**和现实的计算机世界存在较大差异**。
+
+读者仅应将本站作为下载资料和提升期末复习效率的工具，如需学习真正的计算机知识，可参考 [CS自学指南](https://csdiy.wiki/) 或进组/实习。
+
+如您对上述表述存在疑惑，可参考南软 21 级前辈的文章 [在南京大学的四年 - 软件工程与纸上谈兵](https://blog.lyc8503.net/post/4-years-at-nju/)。
 {% endhint %}
 
 {% hint style="success" %}
