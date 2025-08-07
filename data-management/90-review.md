@@ -45,7 +45,8 @@
 * 不同用户对同对象的存取权限不同
 * 用户可以将权限授予其他用户或收回权限
   * `GRANT privilege ON sth TO sb`
-  * `REVOKE privilege ON sth FROM sb`
+  * `REVOKE privilege ON sth FROM sb`&#x20;
+  * 为所有用户授权/收回时，使用 `PUBLIC`
 * 缺点：数据本身无安全性标记，可能存在数据的“无意泄露”
 
 #### 强制存取控制
