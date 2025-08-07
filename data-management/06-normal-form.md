@@ -34,7 +34,7 @@
   * 若$$X \to Y , Y \to Z, Y \to X$$，则$$Z$$直接依赖于$$X$$，不算传递函数依赖
 
 > - 若 $$X$$ 和 $$Y$$ 是 1:1 映射关系，则 $$X \to Y$$ , $$Y \to X$$
-> - 若 $$X$$ 和 $$Y$$ 是 1:N 映射关系，则 $$Y \to X$$
+>   * 若 $$X$$ 和 $$Y$$ 是 1:N 映射关系，则 $$Y \to X$$
 > - 若 $$X$$ 和 $$Y$$ 是 N:M 映射关系，则 不存在函数依赖
 
 ### 闭包
@@ -70,7 +70,7 @@
 ## 范式
 
 * 满足某一级别的关系模式的集合
-* $$1NF \subset 2NF \subset 3NF \subset BCNF \subset 4NF \subset 5NF$$
+* $$1NF \supset 2NF \supset 3NF \supset BCNF \supset 4NF \supset 5NF$$
 * $$R \in nNF$$：$$R$$满足$$nNF$$的所有条件
 * 规范化：低一级范式通过模式分解转换成高一级范式模式的集合
 
@@ -95,7 +95,7 @@
 # 满足 1NF 不满足 2NF 的例子
 表格 (A, B, C, D)
 A -> C
-(A,B) -> D
+(A, B) -> D
 # 解决方案
 表格1 (A, C)
 A -> C
@@ -113,13 +113,12 @@ A -> C
 
 ```
 # 满足 2NF 不满足 3NF 的例子
-表格 (A, B, C, D)
+表格 (A, B, C)
 A -> B
 B -> C
-(A,B) -> D
 # 解决方案
-表格1 (A, B, D)
-(A, B) -> D
+表格1 (A, B)
+A -> B
 表格2 (B, C)
 B -> C
 ```
