@@ -106,7 +106,7 @@
   * [南京市内](entertainment/food/nanjing.md)
 * [旅游](entertainment/travel/README.md)
   * [春日赏花](entertainment/travel/flowers.md)
-  * [宁杭线](entertainment/travel/nj-hz.md)
+  * [宁杭高铁](entertainment/travel/nj-hz.md)
 
 ***
 
