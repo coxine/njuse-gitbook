@@ -64,11 +64,21 @@
 * [数据结构与算法](notes/data-structure-and-algorithm.md)
 * [密码学原理](notes/crypto.md)
 * [计算机系统基础实验选修](notes/icspa.md)
+* [计算机操作系统](notes/os.md)
+* [软件工程与计算 II](notes/se2/README.md)
+  * [01-软件工程基础](notes/se2/01-software-engineering-basic.md)
+  * [02\~04-需求](notes/se2/02-04-requirement.md)
+  * [05\~07-软件体系结构设计](notes/se2/05-07-software-architecture.md)
+  * [08-人机交互](notes/se2/08-human-computer-interaction.md)
+  * [09\~12-详细设计](notes/se2/09-12-detailed-design.md)
+  * [13-设计模式](notes/se2/13-design-patterns.md)
+  * [14\~15-软件构造](notes/se2/14-15-software-construction.md)
+  * [16-软件测试](notes/se2/16-software-testing.md)
+  * [17\~19-交付、演化、生命周期模型](notes/se2/17-19-software-lifecycle.md)
+  * [90-面向对象知识速查](notes/se2/oop-cheatsheet.md)
 
 ***
 
-* [计算机操作系统](os.md)
-* [软件工程与计算 II](se2.md)
 * [数据管理基础](data-management/README.md)
   * [01-概述](data-management/01-intro.md)
   * [02-关系模型](data-management/02-relation-model.md)
