@@ -117,6 +117,7 @@
 * [旅游](entertainment/travel/README.md)
   * [春日赏花](entertainment/travel/flowers.md)
   * [宁杭高铁](entertainment/travel/nj-hz.md)
+  * [沪苏湖高铁](entertainment/travel/sh-huzhou.md)
 
 ***
 
@@ -126,3 +127,4 @@
 
 * [获取下载密码](instructions/get_password.md)
 * [添砖加瓦](instructions/contribution.md)
+* [友情链接](instructions/links.md)
