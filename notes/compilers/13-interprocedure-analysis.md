@@ -61,7 +61,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/compiler-13-ifds-1.png" alt=""><figcaption><p>基础转移方法</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/compiler-13-ifds-1.png" alt=""><figcaption><p>基础转移方法</p></figcaption></figure>
 
 #### 分析变量未定义问题
 

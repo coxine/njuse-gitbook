@@ -93,7 +93,7 @@
   * 通过无向边连接实体和联系，写上联系类型
   * 联系可以具有属性
 
-<figure><img src="../.gitbook/assets/database-07-er-graph.png" alt=""><figcaption><p>简单的 ER 图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/database-07-er-graph.png" alt=""><figcaption><p>简单的 ER 图</p></figcaption></figure>
 
 #### Is-A 关系
 

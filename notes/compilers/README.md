@@ -35,4 +35,4 @@ icon: gear-complex-code
 
 包含教材，课件（含考试用精简版课件），往年卷，作业题目和解答，复习资料。
 
-访问本页需要密码，可在此[获取密钥](../instructions/get_password.md)。
+访问本页需要密码，可在此[获取密钥](../../instructions/get_password.md)。
