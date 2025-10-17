@@ -30,7 +30,7 @@ icon: house
 * 课程信息变更
 * ……
 
-我们向所有贡献者提供**免费升学咨询、专业生涯规划**等奖励措施，持续贡献者可解锁更多隐藏福利\~
+关于如何增改内容，请参考 [contribution.md](instructions/contribution.md "mention")。
 {% endhint %}
 
 ***
