@@ -19,7 +19,7 @@ DHCP 中的 单播/广播
 1. 发现阶段：Client 不知道 Server 的地址，因此**广播** `DHCP Discover` 包
 2. 响应阶段：Server 收到 `DHCP Discover` 包后，向Client**单播** `DHCP Offer` 包，包含 IP 地址、子网掩码、租约时间等信息
 3. 选择阶段：Client 收到 `DHCP Offer` 包后，选择一个 Server，广播 `DHCP Request` 包
-4. 租约确认：Server 收到 `DHCP Request` 包后， 单播`DHCP Ack` 包，确认租约，若出错则发送 `DHCP Nak` 包
+4. 租约确认：Server 收到 `DHCP Request` 包后，返回 `DHCP Ack`（或 `DHCP Nak`）包，确认或拒绝租约
 5. 租期续约：Client 在租期中，向提供 IP 地址的 Server `DHCP Request` 包，收到 Server 的 `DHCP Ack` 包后更新配置
 6. 租期释放：Client 在租期中，向提供 IP 地址的 Server发送 `DHCP Release` 包，Server 收到后释放 IP 地址
 
