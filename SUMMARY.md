@@ -59,6 +59,7 @@
   * [17-输入输出](notes/coa/17-io.md)
   * [90-复习](notes/coa/90-review.md)
   * [机考](notes/coa/coding-exam/README.md)
+    * [2025-12](notes/coa/coding-exam/2025-12.md)
     * [2024-12](notes/coa/coding-exam/2024-12.md)
     * [2020-12](notes/coa/coding-exam/2020-12.md)
 * [数据结构与算法](notes/data-structure-and-algorithm.md)
