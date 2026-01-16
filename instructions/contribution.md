@@ -26,10 +26,12 @@ icon: flower-tulip
 * 图片命名：`课程名-编号-图片概述`，可参照已有文件
 * 其余待定
 
-## 本站贡献者
+## 贡献者名录
 
 诸君的支持和努力使得佛脚玩乐指南不断进步，感谢每一位为本站作出贡献的朋友。
 
 * [Coxine](https://github.com/coxine)
 * [grass-lin](https://github.com/grass-lin)
 * [Yeuvoir](https://github.com/Yeuvoir)
+* [Hhnng](https://github.com/Hhnng)
+* hotori
