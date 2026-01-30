@@ -32,7 +32,7 @@ icon: washing-machine
 
 ## 资料下载
 
-[下载地址](https://cos.tg/njuse-compilers)
+[下载地址](https://cos.tg/njuse-sies)
 
 包含课件，往年卷，实验文档，小组项目文档。
 
