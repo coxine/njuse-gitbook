@@ -35,3 +35,4 @@ icon: flower-tulip
 * [Yeuvoir](https://github.com/Yeuvoir)
 * [Hhnng](https://github.com/Hhnng)
 * hotori
+* DuscWalk
