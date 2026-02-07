@@ -119,10 +119,14 @@
   * [13-过程间分析](notes/compilers/13-interprocedure-analysis.md)
   * [14-指针分析](notes/compilers/14-pointer-analysis.md)
   * [90-常见概念定义](notes/compilers/90-definitions.md)
+* [C++ 高级程序设计](notes/cpp.md)
+* [人机交互系统](notes/hci.md)
 * [专业选修课](notes/elective-courses/README.md)
   * [嵌入式系统概论](notes/elective-courses/sies/README.md)
     * [2025-复习提纲](notes/elective-courses/sies/2025-review.md)
   * [操作系统设计与实现](notes/elective-courses/osdi.md)
+  * [大数据分析](notes/elective-courses/big-data-analysis.md)
+  * [机器学习（深度学习）](notes/elective-courses/machine-learning.md)
 
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
 
