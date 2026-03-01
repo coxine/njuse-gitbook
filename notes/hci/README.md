@@ -30,7 +30,7 @@ icon: browsers
 {% hint style="info" %}
 比如站长的小组开发了一个“游迹”，用白板为载体，关联高德地图绘制旅行线路，记录旅行攻略。解决了目前旅游时用小红书做攻略在地理位置上不直观，需频繁切换地图应用和小红书的痛点，获得了课程项目的满分。😋
 
-我们的 Github 仓库，欢迎大家参考：[前端](https://github.com/coxine/WiTrace-frontend) [后端](https://github.com/coxine/WitBoard-backend)&#x20;
+我们的 Github 仓库，欢迎大家参考：[前端](https://github.com/coxine/WiTrace-frontend) [后端](https://github.com/coxine/WiTrace-backend)
 {% endhint %}
 
 此外，项目还需录制场景视频，大家时间有余可以研究研究剪辑和运镜，这样会显得拍出来的视频很专业🤓
