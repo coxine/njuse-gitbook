@@ -32,5 +32,5 @@ icon: key
 
 包含课件，电子教材，教材习题答案，复习提纲，作业答案，往年卷等内容。
 
-访问本页需要密码，可在此[获取密钥](../instructions/get_password.md)。
+访问本页需要密码，可在此[获取密钥](../../instructions/get_password.md)。
 
