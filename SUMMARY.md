@@ -160,6 +160,7 @@
   * [操作系统设计与实现](notes/elective-courses/osdi.md)
   * [大数据分析](notes/elective-courses/big-data-analysis.md)
   * [机器学习（深度学习）](notes/elective-courses/machine-learning.md)
+  * [编程语言的设计与实现](notes/elective-courses/pldi.md)
 
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
 
