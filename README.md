@@ -30,7 +30,7 @@ icon: house
 * 课程信息变更
 * ……
 
-关于如何增改内容，请参考 [contribution.md](instructions/contribution.md "mention")。
+关于如何增改内容，请参考 [contribution](instructions/contribution/ "mention")。
 {% endhint %}
 
 ***

@@ -18,7 +18,7 @@ icon: plane-departure
 
 若指南尚未完工的城市内有你的家乡，欢迎向本站投稿相应城市的旅游/美食攻略，宣传家乡的美好和精彩！
 
-欲了解投稿相关事宜，请参考[添砖加瓦](../../instructions/contribution.md)。
+欲了解投稿相关事宜，请参考[添砖加瓦](../../instructions/contribution/)。
 {% endhint %}
 
 {% hint style="warning" %}

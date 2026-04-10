@@ -160,6 +160,9 @@
   * [操作系统设计与实现](notes/elective-courses/osdi.md)
   * [大数据分析](notes/elective-courses/big-data-analysis.md)
   * [机器学习（深度学习）](notes/elective-courses/machine-learning.md)
+  * [软件测试](notes/elective-courses/software-testing.md)
+  * [服务端开发](notes/elective-courses/server-side-development.md)
+  * [移动互联网开发工程](notes/elective-courses/mobile-internet-development.md)
   * [编程语言的设计与实现](notes/elective-courses/pldi.md)
 
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
@@ -177,5 +180,6 @@
 ## 指南 <a href="#instructions" id="instructions"></a>
 
 * [获取下载密码](instructions/get_password.md)
-* [添砖加瓦](instructions/contribution.md)
+* [添砖加瓦](instructions/contribution/README.md)
+  * [课程介绍模板](instructions/contribution/course-template.md)
 * [友情链接](instructions/links.md)
