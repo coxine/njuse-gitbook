@@ -36,3 +36,4 @@ icon: flower-tulip
 * [Hhnng](https://github.com/Hhnng)
 * hotori
 * DuscWalk
+* [SparkNJU](https://github.com/SparkNJU)
