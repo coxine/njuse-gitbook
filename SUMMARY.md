@@ -162,7 +162,7 @@
   * [机器学习（深度学习）](notes/elective-courses/machine-learning.md)
   * [软件测试](notes/elective-courses/software-testing.md)
   * [服务端开发](notes/elective-courses/server-side-development.md)
-  * [移动互联网开发工程](notes/elective-courses/mobile-internet-development.md)
+  * [移动互联网软件工程](notes/elective-courses/mobile-internet-development.md)
   * [编程语言的设计与实现](notes/elective-courses/pldi.md)
 
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
