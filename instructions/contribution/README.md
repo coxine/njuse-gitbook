@@ -28,7 +28,7 @@ icon: flower-tulip
 
 ## 贡献者名录
 
-诸君的支持和努力使得佛脚玩乐指南不断进步，感谢每一位为本站作出贡献的朋友。
+诸君的支持和努力使得南佛指南不断进步，感谢每一位为本站作出贡献的朋友。
 
 * [Coxine](https://github.com/coxine)
 * [grass-lin](https://github.com/grass-lin)
@@ -37,3 +37,4 @@ icon: flower-tulip
 * hotori
 * DuscWalk
 * [SparkNJU](https://github.com/SparkNJU)
+* Xagoras
