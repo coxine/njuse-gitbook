@@ -154,6 +154,7 @@
   * [Linux 系统基础](notes/elective-courses/linux-basics/README.md)
     * [90-期末复习](notes/elective-courses/linux-basics/90-review.md)
   * [Web 开发](notes/elective-courses/web-development.md)
+  * [智能化软件工程师训练营](notes/elective-courses/ai-enabled-se-bootcamp.md)
   * [计算机系统基础实验选修](notes/elective-courses/icspa.md)
   * [密码学原理](notes/elective-courses/crypto.md)
   * [人工智能赋能的人机交互](notes/elective-courses/ai4hci.md)
