@@ -162,7 +162,7 @@
     * [2025-复习提纲](notes/elective-courses/sies/2025-review.md)
   * [操作系统设计与实现](notes/elective-courses/osdi.md)
   * [大数据分析](notes/elective-courses/big-data-analysis.md)
-  * [机器学习（深度学习）](notes/elective-courses/machine-learning.md)
+  * [大模型技术基础（原机器学习）](notes/elective-courses/machine-learning.md)
   * [软件测试](notes/elective-courses/software-testing.md)
   * [服务端开发](notes/elective-courses/server-side-development.md)
   * [移动互联网软件工程](notes/elective-courses/mobile-internet-development.md)
