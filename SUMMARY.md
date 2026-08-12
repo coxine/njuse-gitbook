@@ -167,6 +167,8 @@
   * [服务端开发](notes/elective-courses/server-side-development.md)
   * [移动互联网软件工程](notes/elective-courses/mobile-internet-development.md)
   * [编程语言的设计与实现](notes/elective-courses/pldi.md)
+  * [Linux 系统编程](notes/elective-courses/linux-system-programming/README.md)
+    * [2026-复习提纲](notes/elective-courses/linux-system-programming/2026-review.md)
 
 ## 玩乐 <a href="#entertainment" id="entertainment"></a>
 
