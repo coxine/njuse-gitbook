@@ -63,15 +63,7 @@
 
 ### 【重点】七种文件类型
 
-| 类型          | `ls -l` 首字符 | 说明                  |
-| ----------- | :---------: | ------------------- |
-| 普通文件        |     `-`     | 文本或二进制数据，无特别内部结构    |
-| 目录          |     `d`     | 文件列表                |
-| 字符设备文件      |     `c`     | 代表字符型硬件设备，位于 `/dev` |
-| 块设备文件       |     `b`     | 代表块型硬件设备，位于 `/dev`  |
-| 符号链接        |     `l`     | 软链接，类似快捷方式          |
-| 管道（FIFO）    |     `p`     | 进程间通信               |
-| 套接字（socket） |     `s`     | 网络/进程间数据通信接口        |
+<table data-search="false"><thead><tr><th>类型</th><th align="center">ls -l 首字符</th><th>说明</th></tr></thead><tbody><tr><td>普通文件</td><td align="center"><code>-</code></td><td>文本或二进制数据，无特别内部结构</td></tr><tr><td>目录</td><td align="center"><code>d</code></td><td>文件列表</td></tr><tr><td>字符设备文件</td><td align="center"><code>c</code></td><td>代表字符型硬件设备，位于 <code>/dev</code></td></tr><tr><td>块设备文件</td><td align="center"><code>b</code></td><td>代表块型硬件设备，位于 <code>/dev</code></td></tr><tr><td>符号链接</td><td align="center"><code>l</code></td><td>软链接，类似快捷方式</td></tr><tr><td>管道（FIFO）</td><td align="center"><code>p</code></td><td>进程间通信</td></tr><tr><td>套接字（socket）</td><td align="center"><code>s</code></td><td>网络/进程间数据通信接口</td></tr></tbody></table>
 
 补充：
 
