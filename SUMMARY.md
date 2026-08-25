@@ -150,6 +150,8 @@
   * [12-设计-以用户为中心](notes/hci/12-user-centered-design.md)
   * [90-期末复习](notes/hci/90-final.md)
 * [软件工程与计算 III](notes/ruan-jian-gong-cheng-yu-ji-suan-iii.md)
+* [软件系统设计](notes/software-system-design.md)
+* [软件质量管理](notes/software-quality-management.md)
 * [专业选修课](notes/elective-courses/README.md)
   * [软件工程导学](notes/elective-courses/se-intro.md)
   * [Linux 系统基础](notes/elective-courses/linux-basics/README.md)

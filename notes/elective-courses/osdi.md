@@ -18,7 +18,7 @@ icon: solar-system
 
 每周一次。
 
-实验分为两部分，前 12 周的主题为[常规的操作系统](https://git.nju.edu.cn/nju-se-oslab/oslab2025autumn)；后两周的主题为[区块链](https://git.nju.edu.cn/nju-se-oslab/oslab2025autumn/-/tree/blockchain)。
+实验分为两部分，前 12 周的主题为常规的操作系统；后两周的主题为区块链。
 
 区块链部分的实验过于复杂，且评测波动大，因此完成实验的同学不是很多。
 
