@@ -38,7 +38,7 @@
 * 有效值相乘
 * 结果规格化、舍入
 
-<figure><img src="../../.gitbook/assets/coa-06-float-mul.png" alt=""><figcaption><p>浮点数乘法</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coa-06-float-div.png" alt=""><figcaption><p>浮点数乘法</p></figcaption></figure>
 
 ## 除法
 

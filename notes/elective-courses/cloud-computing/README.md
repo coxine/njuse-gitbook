@@ -24,6 +24,8 @@ icon: cloud-binary
 
 重点 PPT 十分精准，按 PPT 复习即可。
 
+[2026-review.md](2026-review.md "mention")
+
 ## 资料下载
 
 [下载地址](https://cos.tg/njuse-cloud)

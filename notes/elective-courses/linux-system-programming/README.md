@@ -26,6 +26,8 @@ icon: ubuntu
 
 好在老师的捞人能力还是很强的，全部填满应该就能及格。
 
+[2026-review.md](2026-review.md "mention")
+
 ## 资料下载
 
 [下载地址](https://cos.tg/njuse-linux-programming)

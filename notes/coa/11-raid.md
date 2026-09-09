@@ -58,7 +58,7 @@
 * 传输率、磁盘利用率：无差别
 * 容错率：**RAID 01更弱**（如果RAID 0 时磁盘就坏了，那RAID 1就没有意义了，因为生成的镜像全是坏镜像）
 
-<figure><img src="../../.gitbook/assets/coa-11-raid-01-10.png" alt=""><figcaption><p>RAID 01 vs RAID 10 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coa-11-raid-01-10.png" alt=""><figcaption><p>RAID 01 vs RAID 10</p></figcaption></figure>
 
 ### RAID 2
 
@@ -103,7 +103,7 @@
 
 ### RAID 5
 
-<figure><img src="../../.gitbook/assets/coa-11-raid5.png" alt=""><figcaption><p>RAID 5</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coa-11-raid4.png" alt=""><figcaption><p>RAID 5</p></figcaption></figure>
 
 * 基于RAID 4
 * 在所有磁盘上分布了奇偶校验条带：负载均衡
